@@ -1,0 +1,12 @@
+*
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+body
+{
+    margin: 5em;
+    padding: 10em;
+    border-radius: .5em;
+    border: solid black;
+}
