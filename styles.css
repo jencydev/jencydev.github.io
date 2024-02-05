@@ -10,3 +10,10 @@ body
     border-radius: .5em;
     border: solid black;
 }
+img
+{
+    width: 50%;
+    height: auto;
+    display: block;
+    margin: 0% auto;
+}
