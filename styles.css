@@ -5,10 +5,28 @@
 }
 body
 {
-    margin: 5em;
-    padding: 10em;
+    margin: 15em;
+    padding: 30em;
     border-radius: .5em;
     border: solid black;
+}
+h1 .contenido
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(91, 113, 115);
+    font-size: 15em;
+    background: rgb(60, 50, 62);
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.jon
+{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    justify-content:center;
+    align-items: center;
 }
 img
 {
